@@ -1,11 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img alt="Amir Tadrisi — LMS engineer since 2013, Cubite founder. 50+ deployments, 400K learners." src="assets/hero-light.svg" width="100%">
+  <img alt="LMS engineer since 2013. Cubite founder. 50+ deployments, 400K learners." src="assets/hero-light.svg" width="100%">
 </picture>
 
-<a href="https://cubite.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-try-cubite-dark.svg"><img alt="Try Cubite" src="assets/cta-try-cubite-light.svg" height="48"></picture></a>
+<br/>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img alt="" src="assets/divider-light.svg" height="12"></picture>
+<a href="https://cubite.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-try-cubite-dark.svg"><img alt="Try Cubite" src="assets/cta-try-cubite-light.svg" height="48"></picture></a>
 
 ## What I build
 

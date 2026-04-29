@@ -1,12 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" fill="none" role="img" aria-label="Amir Tadrisi — LMS engineer since 2013, Cubite founder. 50+ deployments, 400K learners.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" fill="none" role="img" aria-label="LMS engineer since 2013. Cubite founder. 50+ deployments, 400K learners.">
   <rect width="1280" height="320" fill="#0B1626"/>
 
-  <!-- Eyebrow (white) -->
-  <circle cx="64" cy="58" r="3" fill="#FFFFFF"/>
-  <text x="78" y="62" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3.5" fill="#FFFFFF">LMS ENGINEER SINCE 2013  ·  CUBITE FOUNDER</text>
+  <!-- Headline line 1 -->
+  <text x="64" y="118" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="50" font-weight="800" letter-spacing="-1.5" fill="#FFFFFF">LMS engineer since 2013.</text>
 
-  <!-- Name -->
-  <text x="64" y="166" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-2.5" fill="#FFFFFF">Amir Tadrisi</text>
+  <!-- Headline line 2 -->
+  <text x="64" y="172" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="50" font-weight="800" letter-spacing="-1.5" fill="#FFFFFF">Cubite founder.</text>
 
   <!-- Career arc — THE one cyan element -->
   <line x1="64" y1="208" x2="1216" y2="208" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
