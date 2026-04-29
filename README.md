@@ -27,7 +27,7 @@ Custom XBlocks, Moodle plugins, Tutor-based hosting, MFE customization, edx-plat
 
 ### LTI Tool Development
 
-LTI 1.3 / LTI Advantage tools for Canvas, Moodle, and Brightspace — Deep Linking 2.0, AGS, NRPS, and Dynamic Registration. For LMS or LTI work — reach me at [amir@cubite.io](mailto:amir@cubite.io).
+LTI 1.3 / LTI Advantage tools for Canvas, Moodle, and Brightspace — Deep Linking 2.0, AGS, NRPS, and Dynamic Registration.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img alt="" src="assets/divider-light.svg" height="12"></picture>
 
