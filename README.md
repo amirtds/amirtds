@@ -4,8 +4,11 @@
 </picture>
 
 <br/>
+<br/>
 
 <a href="https://cubite.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-try-cubite-dark.svg"><img alt="Try Cubite" src="assets/cta-try-cubite-light.svg" height="48"></picture></a>
+
+&nbsp;
 
 ## What I build
 
