@@ -3,11 +3,8 @@
   <img alt="Amir Tadrisi — LMS engineer, 13 years deep. Founder of Cubite. 13 years · 50+ deployments · 400K learners." src="assets/hero-light.svg" width="100%">
 </picture>
 
-Founder of [**Cubite**](https://cubite.io) — the LMS born from 50+ Open edX, Moodle & Canvas deployments and 400K learners reached.
-
 [![Try Cubite](https://img.shields.io/badge/Try_Cubite_→-22D3EE?style=for-the-badge)](https://cubite.io)
 [![Hire me for LMS work](https://img.shields.io/badge/Hire_me_for_LMS_work_→-0B1626?style=for-the-badge)](mailto:amir@cubite.io)
-[![Twitter @amirtds](https://img.shields.io/badge/@amirtds-0B1626?style=for-the-badge&logo=x&logoColor=22D3EE)](https://twitter.com/amirtds)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1626?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/amirtadrisi)
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img alt="" src="assets/divider-light.svg" height="12"></picture>
