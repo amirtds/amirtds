@@ -9,12 +9,6 @@
 
 ## What I build
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**PRODUCTS**
-
 ### Cubite
 
 **Designed to be used, not survived.** What 13 years inside Moodle and Open edX taught me to build:
@@ -25,39 +19,21 @@
 
 [**cubite.io →**](https://cubite.io)
 
-<br/><hr/>
-
 ### vidbuilder.ai
 
 AI video generation for education and LMS platforms — programmatic video from JSON, powered by Remotion.
 
 [**vidbuilder.ai →**](https://vidbuilder.ai)
 
-</td>
-<td width="33%" valign="top">
-
-**SERVICES**
-
-### Open edX & Moodle
+### Open edX & Moodle implementations
 
 Custom XBlocks, Moodle plugins, Tutor-based hosting, MFE customization, edx-platform overrides, theming, SSO, and zero-downtime platform migrations.
 
-[**Get in touch →**](mailto:amir@cubite.io)
-
-</td>
-<td width="33%" valign="top">
-
-**INTEGRATIONS**
-
-### Canvas LTI
+### Canvas LTI integrations
 
 LTI 1.3 / LTI Advantage tools for Canvas, Moodle, and Brightspace — Deep Linking 2.0, AGS, NRPS, and Dynamic Registration.
 
-[**Get in touch →**](mailto:amir@cubite.io)
-
-</td>
-</tr>
-</table>
+[**Hire me for LMS work →**](mailto:amir@cubite.io)
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img alt="" src="assets/divider-light.svg" height="12"></picture>
 
