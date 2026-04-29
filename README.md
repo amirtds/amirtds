@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img alt="Amir Tadrisi — LMS engineer, 13 years deep. Founder of Cubite. 13 years · 50+ deployments · 400K learners." src="assets/hero-light.svg" width="100%">
+  <img alt="Amir Tadrisi — LMS engineer since 2013, Cubite founder. 50+ deployments, 400K learners." src="assets/hero-light.svg" width="100%">
 </picture>
 
 [![Try Cubite](https://img.shields.io/badge/Try_Cubite_→-22D3EE?style=for-the-badge)](https://cubite.io)
@@ -13,20 +13,25 @@
 <tr>
 <td width="33%" valign="top">
 
-**PRODUCT**
+**PRODUCTS**
 
 ### Cubite
-The LMS I built after 13 years of seeing what the others get wrong.
 
-**Designed to be used, not survived.** After years inside clients' Moodle and Open edX deployments I kept hearing the same complaints: dated UI, too many clicks for basic tasks, a plugin for every feature, and a team of integrators just to install it. Cubite inverts every one:
+**Designed to be used, not survived.** What 13 years inside Moodle and Open edX taught me to build:
 
-- Beautiful, modern UI — usable on day one
-- Fast workflows — fewer clicks per task
+- Modern UI · fast workflows · usable on day one
 - SSO, MFA, payments, AI, storefront built-in — no plugin sprawl
-- Managed hosting — no DevOps team needed
-- Multi-tenant, white-label, AI-native course generation
+- Multi-tenant · white-label · managed hosting
 
 [**cubite.io →**](https://cubite.io)
+
+<br/><hr/>
+
+### vidbuilder.ai
+
+AI video generation for education and LMS platforms — programmatic video from JSON, powered by Remotion.
+
+[**vidbuilder.ai →**](https://vidbuilder.ai)
 
 </td>
 <td width="33%" valign="top">
@@ -34,7 +39,6 @@ The LMS I built after 13 years of seeing what the others get wrong.
 **SERVICES**
 
 ### Open edX & Moodle
-13 years of production experience.
 
 Custom XBlocks, Moodle plugins, Tutor-based hosting, MFE customization, edx-platform overrides, theming, SSO, and zero-downtime platform migrations.
 
@@ -46,9 +50,8 @@ Custom XBlocks, Moodle plugins, Tutor-based hosting, MFE customization, edx-plat
 **INTEGRATIONS**
 
 ### Canvas LTI
-LTI 1.3 / LTI Advantage tool development for Canvas, Moodle, and Brightspace.
 
-Deep Linking 2.0, Assignment & Grade Services (AGS), Names & Roles Provisioning Service (NRPS), and Dynamic Registration.
+LTI 1.3 / LTI Advantage tools for Canvas, Moodle, and Brightspace — Deep Linking 2.0, AGS, NRPS, and Dynamic Registration.
 
 [**Get in touch →**](mailto:amir@cubite.io)
 
