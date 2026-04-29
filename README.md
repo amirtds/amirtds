@@ -42,42 +42,47 @@ LTI 1.3 / LTI Advantage tools for Canvas, Moodle, and Brightspace — Deep Linki
 
 ## What people say
 
-> ### "One of the most thoughtful, focused engineers on my team."
->
-> **Aaron Beals** — Product-oriented Technical Leader
+<table>
+<tr>
+<td width="120" valign="middle">
+<img src="assets/aaron-beals.webp" alt="Aaron Beals" width="100" height="100"/>
+</td>
+<td valign="middle">
 
-> ### "A key driving force behind everything happening technically with our enterprise customers."
->
-> **Valerie Pierre** — Innovation & Digital Education Specialist
+### "One of the most thoughtful, focused engineers on my team."
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img alt="" src="assets/divider-light.svg" height="12"></picture>
+**Aaron Beals** — Product-oriented Technical Leader
 
-## How I work
+</td>
+</tr>
+</table>
 
-```mermaid
-flowchart LR
-    A["Discovery<br/><i>30 min · free</i>"]:::step --> B["Architecture<br/><i>fixed-fee</i>"]:::step
-    B --> C["Implementation<br/><i>build · embed · handoff</i>"]:::step
-    C --> D["Managed hosting<br/><i>optional</i>"]:::step
+<table>
+<tr>
+<td width="120" valign="middle">
+<img src="assets/colum-mckenna.webp" alt="Colum Andrew McKenna" width="100" height="100"/>
+</td>
+<td valign="middle">
 
-    classDef step stroke:#22D3EE,stroke-width:2px
-```
+### "Always blown away by how quickly and professionally Amir handled our issues."
 
-1. **Discovery call** — what you're building, what you've tried, what's broken.
-2. **Architecture review** — concrete plan: stack, infra, integration points, risks, timeline. You own the document either way.
-3. **Implementation** — I build it with you, embed with your team, or hand off to your engineers. Custom XBlocks, Moodle plugins, LTI tools, platform migrations, or a Cubite white-label deployment.
-4. **Managed hosting** — Cubite-managed infra with scaling, SLA, and zero-touch upgrades.
+**Colum Andrew McKenna** — Product Development Manager at The Open University
 
-> [!TIP]
-> **Best fit for**
-> - Teams running Moodle or Open edX who've outgrown the off-the-shelf experience.
-> - SaaS companies shipping a Canvas / Moodle / Brightspace LTI integration who don't want to learn the spec from scratch.
-> - Enterprises and universities migrating between platforms with zero downtime and zero data loss.
-> - Founders evaluating "build vs. buy vs. white-label" for an LMS-shaped product.
+</td>
+</tr>
+</table>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img alt="" src="assets/divider-light.svg" height="12"></picture>
+<table>
+<tr>
+<td width="120" valign="middle">
+<img src="assets/matthew-harrington.webp" alt="Matthew Harrington" width="100" height="100"/>
+</td>
+<td valign="middle">
 
-### Building an LMS, integrating with one, or migrating off one?
+### "Literally no challenge that I have ever seen him fail to absolutely smash out of the park."
 
-[![cubite.io →](https://img.shields.io/badge/cubite.io_→-22D3EE?style=for-the-badge)](https://cubite.io)
-[![amir@cubite.io](https://img.shields.io/badge/amir@cubite.io-0B1626?style=for-the-badge)](mailto:amir@cubite.io)
+**Matthew Harrington** — Product Manager at Cambridge Spark
+
+</td>
+</tr>
+</table>
