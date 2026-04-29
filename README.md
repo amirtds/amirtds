@@ -9,7 +9,7 @@
 
 ## What I build
 
-### Cubite
+### Cubite — Custom LMS Platform &nbsp; ![PRODUCT](https://img.shields.io/badge/PRODUCT-22D3EE?style=flat-square)
 
 **Designed to be used, not survived.** What 13 years inside Moodle and Open edX taught me to build:
 
@@ -19,17 +19,17 @@
 
 [**cubite.io →**](https://cubite.io)
 
-### vidbuilder.ai
+### vidbuilder.ai — AI Video Generation for Education &nbsp; ![PRODUCT](https://img.shields.io/badge/PRODUCT-22D3EE?style=flat-square)
 
 AI video generation for education and LMS platforms — programmatic video from JSON, powered by Remotion.
 
 [**vidbuilder.ai →**](https://vidbuilder.ai)
 
-### Open edX & Moodle implementations
+### Open edX & Moodle Implementation Services &nbsp; ![SERVICE](https://img.shields.io/badge/SERVICE-0E7490?style=flat-square)
 
 Custom XBlocks, Moodle plugins, Tutor-based hosting, MFE customization, edx-platform overrides, theming, SSO, and zero-downtime platform migrations.
 
-### Canvas LTI integrations
+### Canvas LTI Integration · LTI 1.3 Tool Development &nbsp; ![SERVICE](https://img.shields.io/badge/SERVICE-0E7490?style=flat-square)
 
 LTI 1.3 / LTI Advantage tools for Canvas, Moodle, and Brightspace — Deep Linking 2.0, AGS, NRPS, and Dynamic Registration.
 
