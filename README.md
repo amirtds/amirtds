@@ -9,31 +9,25 @@
 
 ## What I build
 
-### Cubite — Custom LMS Platform &nbsp; ![PRODUCT](https://img.shields.io/badge/PRODUCT-22D3EE?style=flat-square)
+### Cubite — Custom LMS Platform
 
-**Designed to be used, not survived.** What 13 years inside Moodle and Open edX taught me to build:
+[Cubite](https://cubite.io) is the LMS I built after 13 years inside Moodle and Open edX deployments. **Designed to be used, not survived.**
 
 - Modern UI · fast workflows · usable on day one
 - SSO, MFA, payments, AI, storefront built-in — no plugin sprawl
 - Multi-tenant · white-label · managed hosting
 
-[**cubite.io →**](https://cubite.io)
+### vidbuilder.ai — AI Video Generation for Education
 
-### vidbuilder.ai — AI Video Generation for Education &nbsp; ![PRODUCT](https://img.shields.io/badge/PRODUCT-22D3EE?style=flat-square)
+[vidbuilder.ai](https://vidbuilder.ai) generates AI video for education and LMS platforms — programmatic video from JSON, powered by Remotion.
 
-AI video generation for education and LMS platforms — programmatic video from JSON, powered by Remotion.
-
-[**vidbuilder.ai →**](https://vidbuilder.ai)
-
-### Open edX & Moodle Implementation Services &nbsp; ![SERVICE](https://img.shields.io/badge/SERVICE-0E7490?style=flat-square)
+### Open edX & Moodle Implementation Services
 
 Custom XBlocks, Moodle plugins, Tutor-based hosting, MFE customization, edx-platform overrides, theming, SSO, and zero-downtime platform migrations.
 
-### Canvas LTI Integration · LTI 1.3 Tool Development &nbsp; ![SERVICE](https://img.shields.io/badge/SERVICE-0E7490?style=flat-square)
+### Canvas LTI Integration · LTI 1.3 Tool Development
 
-LTI 1.3 / LTI Advantage tools for Canvas, Moodle, and Brightspace — Deep Linking 2.0, AGS, NRPS, and Dynamic Registration.
-
-[**Hire me for LMS work →**](mailto:amir@cubite.io)
+LTI 1.3 / LTI Advantage tools for Canvas, Moodle, and Brightspace — Deep Linking 2.0, AGS, NRPS, and Dynamic Registration. For LMS or LTI work — reach me at [amir@cubite.io](mailto:amir@cubite.io).
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img alt="" src="assets/divider-light.svg" height="12"></picture>
 
