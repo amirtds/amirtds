@@ -4,8 +4,6 @@
 </picture>
 
 [![Try Cubite](https://img.shields.io/badge/Try_Cubite_→-22D3EE?style=for-the-badge)](https://cubite.io)
-[![Hire me for LMS work](https://img.shields.io/badge/Hire_me_for_LMS_work_→-0B1626?style=for-the-badge)](mailto:amir@cubite.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1626?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/amirtadrisi)
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img alt="" src="assets/divider-light.svg" height="12"></picture>
 
